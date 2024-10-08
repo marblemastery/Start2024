@@ -1,0 +1,15 @@
+e:\Documents\cs_programy\Start2024\bin\Debug\net8.0\Start2024.exe
+E:\Documents\cs_programy\Start2024\bin\Debug\net8.0\Start2024.deps.json
+E:\Documents\cs_programy\Start2024\bin\Debug\net8.0\Start2024.runtimeconfig.json
+e:\Documents\cs_programy\Start2024\bin\Debug\net8.0\Start2024.dll
+e:\Documents\cs_programy\Start2024\bin\Debug\net8.0\Start2024.pdb
+e:\Documents\cs_programy\Start2024\obj\Debug\net8.0\Start2024.GeneratedMSBuildEditorConfig.editorconfig
+e:\Documents\cs_programy\Start2024\obj\Debug\net8.0\Start2024.AssemblyInfoInputs.cache
+e:\Documents\cs_programy\Start2024\obj\Debug\net8.0\Start2024.AssemblyInfo.cs
+e:\Documents\cs_programy\Start2024\obj\Debug\net8.0\Start2024.csproj.CoreCompileInputs.cache
+e:\Documents\cs_programy\Start2024\obj\Debug\net8.0\Start2024.sourcelink.json
+e:\Documents\cs_programy\Start2024\obj\Debug\net8.0\Start2024.dll
+e:\Documents\cs_programy\Start2024\obj\Debug\net8.0\refint\Start2024.dll
+e:\Documents\cs_programy\Start2024\obj\Debug\net8.0\Start2024.pdb
+E:\Documents\cs_programy\Start2024\obj\Debug\net8.0\Start2024.genruntimeconfig.cache
+E:\Documents\cs_programy\Start2024\obj\Debug\net8.0\ref\Start2024.dll
